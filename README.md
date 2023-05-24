@@ -1,2 +1,10 @@
 # EDA-Global-Energy-Production
-This project explores and forecasts global energy production by type (renewable, nuclear, fossil fuels). It visualizes historical trends, identifies regional differences, and uses machine learning to predict future trajectories.
+Global energy production is at a crossroads, with renewable sources vying for dominance against traditional fossil fuels and the constant presence of nuclear power. This project, titled 'Exploring and Forecasting Global Energy Production: A Comparative Study of Renewable, Nuclear, and Fossil Fuel Sources', delves into the heart of this pivotal arena.
+
+The project begins with an in-depth visual exploration of historical data on global energy production, broken down by source – renewable, nuclear, and fossil fuels. We investigate the key trends over the years, the shifts in energy usage, and the growth or decline of each energy type. The objective of this stage is to create a comprehensive picture of the world's energy consumption patterns, with a particular emphasis on how these patterns have evolved over time.
+
+Next, we embark on a geographic analysis to identify regional differences in energy production. This involves comparing and contrasting various regions around the world in terms of their reliance on different energy sources. We examine whether certain regions are leading the way in renewable energy production, or if others are clinging to traditional fossil fuels.
+
+Lastly, the project incorporates predictive modeling techniques to anticipate the future trajectory of global energy production. Through advanced machine learning algorithms, we aim to forecast the growth of renewable energy compared to nuclear and fossil fuels, along with regional shifts in energy production. Key questions include: 'What might the energy landscape look like in the next decade?', and 'Which regions of the world are poised for significant changes in their energy production?'
+
+In summary, this project provides a data-driven perspective on the past, present, and future of global energy production. The findings are expected to shed light on the pace of transition towards renewable energy and potentially guide policy-makers and stakeholders in their decision-making process.
